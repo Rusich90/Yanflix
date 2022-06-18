@@ -3,6 +3,8 @@
 
 Yanflix - онлайн кинотеатр с микросервисной архитектурой, реализованы следующие сервисы: Auth, Billing, Notification, UGC, Async API, Admin Panel, ETL.
 
+![Screenshot](practicum.png)
+
  - Billing сервис(FastAPI: Дипломный проект) - https://github.com/Rusich90/graduate_work
  - Auth сервис(Flask, Oauth) - https://github.com/Rusich90/Auth_sprint_1-1
  - Notification сервис(RabbitMQ, SMTP, Workers) - https://github.com/Rusich90/notifications_sprint_1
