@@ -6,9 +6,9 @@ Yanflix - онлайн кинотеатр с микросервисной арх
 ![Screenshot](practicum.png)
 
  - Billing сервис(FastAPI: Дипломный проект) - https://github.com/Rusich90/graduate_work
- - Auth сервис(Flask, Oauth) - https://github.com/Rusich90/Auth_sprint_1-1
+ - Auth сервис(Flask, Oauth) - https://github.com/Rusich90/Auth_sprint
  - Notification сервис(RabbitMQ, SMTP, Workers) - https://github.com/Rusich90/notifications_sprint_1
  - Async API(FastAPI) (основной сервис для доступа юзеров к фильмам) - https://github.com/Rusich90/Async_API_sprint_4
- - UGC сервис(Kafka, ClickHouse) - https://github.com/Rusich90/ugc_sprint_1-1
+ - UGC сервис(Kafka, ClickHouse) - https://github.com/Rusich90/UGC_sprint
  - ETL сервис (из постгреса в эластик) - https://github.com/Rusich90/ETL
  - Admin Panel (Django) - https://github.com/Rusich90/Admin_panel_sprint_2
